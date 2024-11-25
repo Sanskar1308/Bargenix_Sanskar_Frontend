@@ -27,7 +27,7 @@ git clone https://github.com/Sanskar1308/Bargenix_Sanskar_Frontend.git
 
 2. Install dependencies
 ```bash
-cd react-landing-page
+cd Bargenix_Sanskar_Frontend
 npm install
 ```
 
